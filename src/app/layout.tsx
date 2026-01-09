@@ -17,8 +17,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "Studio Lash Alphaville | Salão de Beleza em Alphaville",
+  description:
+    "Studio Lash Alphaville é um salão de beleza completo em Alphaville, especializado em cabelo, estética e cuidados personalizados.",
 };
 
 export default function RootLayout({
